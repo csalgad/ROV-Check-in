@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Voter Registrar Hub",
+  "description": "A professional management dashboard for the Registrar of Voters, featuring real-time check-ins, AI-powered assistant, and live station monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
